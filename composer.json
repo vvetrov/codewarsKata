@@ -1,0 +1,14 @@
+{
+    "name": "vvetrov/findthesmallest_kata",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "vvetrov",
+            "email": "vvetrov@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
